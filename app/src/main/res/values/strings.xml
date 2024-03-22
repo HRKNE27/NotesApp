@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="TextView">TextView</string>
+    <string name="welcome_to_my_first_app">Welcome to my First App</string>
+</resources>
